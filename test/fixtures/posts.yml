@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+published:
+  deleted_at:
+
+deleted:
+  deleted_at: 2021-06-18 15:38:24
